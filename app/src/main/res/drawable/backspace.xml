@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:src="@android:drawable/ic_input_delete"
+            android:tint="@color/black"
+            android:width="60dp"
+            android:height="60dp"
+            />
+    </item>
+</selector>
